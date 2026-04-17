@@ -32,4 +32,9 @@ Data yang digunakan dalam program ini adalah:
 
 
 ## Bubble Sort
+[code disini](https://github.com/kukuhdwi206/UTS-Part-1-/blob/e6f21d15ef81c923a6b3762c983fd9447fa2c853/Mahasiswabubblesort.java)
+
+<img width="640" height="635" alt="Cuplikan layar 2026-04-17 123359" src="https://github.com/user-attachments/assets/a162bae3-5c50-4836-8bb3-c3b73257bc66" />
+
+## Insertion Sort
 [code disini](
