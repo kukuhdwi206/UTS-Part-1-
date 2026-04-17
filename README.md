@@ -42,5 +42,8 @@ Data yang digunakan dalam program ini adalah:
 <img width="706" height="611" alt="Cuplikan layar 2026-04-17 124002" src="https://github.com/user-attachments/assets/4665686f-01d6-49e9-8876-a97dc2a5c86f" />
 
 ## Slections Sort
-[code disini](
+[code disini](https://github.com/kukuhdwi206/UTS-Part-1-/blob/4f31e72ca69748f803fc90c3e907e403d4b15efc/Mahasiswaslectionsort.java)
+
+<img width="694" height="615" alt="Cuplikan layar 2026-04-17 123522" src="https://github.com/user-attachments/assets/bece793c-77b8-4e8f-8438-24c7d1714302" />
+
 
